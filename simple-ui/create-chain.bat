@@ -1,0 +1,1 @@
+multichain-ulti create chain1
